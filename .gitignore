@@ -5,6 +5,8 @@ __pycache__/
 *.pyo
 *.pyd
 data/raw/*
+data/processed/*
+
 
 # Virtual environment
 venv/
