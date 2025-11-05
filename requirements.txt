@@ -1,3 +1,7 @@
 ipykernel
 pandas
 spacy
+seqeval
+datasets
+torch
+transformers
